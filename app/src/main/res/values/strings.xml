@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Checktif</string>
+    <string name="place_address">Alamat</string>
+    <string name="place_name">place name</string>
+    <string name="description">Description</string>
+    <string name="tiket_masuk">Tiket Masuk</string>
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="detail">Detail</string>
+    <string name="email">fahrizalshofyanaziz@gmail.com</string>
+    <string name="nama">Fahrizal Shofyan Aziz</string>
+
+    <string-array name="placeName">
+        <item>Candi Borobudur</item>
+        <item>Bromo</item>
+        <item>Lawang Sewu</item>
+        <item>Malioboro</item>
+        <item>Karimun Jawa</item>
+        <item>Nusa Penida</item>
+        <item>Pink Beach Lombok</item>
+        <item>Danau Toba</item>
+        <item>Pulau Komodo</item>
+        <item>GWK</item>
+    </string-array>
+    <string-array name="placeAddress">
+        <item>Magelang, Jawa Tengah</item>
+        <item>Malang, Jawa Timur</item>
+        <item>Semarang, Jawa Tengah</item>
+        <item>Yogyakarta, Yogyakarta</item>
+        <item>Jepara, Jawa Tengah</item>
+        <item>Klungkung, Bali</item>
+        <item>Lombok, NTB</item>
+        <item>Samosir, Sumatra Utara</item>
+        <item>Manggarai, NTT</item>
+        <item>Badung, Bali</item>
+    </string-array>
+    <integer-array name="placeImages">
+        <item>@drawable/borobudur</item>
+        <item>@drawable/bromo</item>
+        <item>@drawable/lawangsewu</item>
+        <item>@drawable/malioboro</item>
+        <item>@drawable/karimunjawa</item>
+        <item>@drawable/nusapenida</item>
+        <item>@drawable/pinkbeachlombok</item>
+        <item>@drawable/danautoba</item>
+        <item>@drawable/pulaukomodo</item>
+        <item>@drawable/gwk</item>
+    </integer-array>
+    <string-array name="placeDescription">
+        <item>Candi Borobudur adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta.</item>
+        <item>Gunung Bromo atau dalam bahasa Tengger dieja "Brama", juga disebut Kaldera Tengger, adalah sebuah gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut.  </item>
+        <item>Lawang Sewu adalah bangunan perkantoran yang terletak di seberang Tugu Muda, Kota Semarang, Jawa Tengah, Indonesia, yang dibangun sebagai kantor pusat Nederlandsch-Indische Spoorweg Maatschappij.</item>
+        <item>Jalan Malioboro adalah nama salah satu kawasan jalan dari tiga jalan di Kota Yogyakarta yang membentang dari Tugu Yogyakarta hingga ke persimpangan Titik Nol Kilometer Yogyakarta. Secara keseluruhan, kawasan Malioboro terdiri atas Jalan Margo Utomo, Jalan Malioboro, dan Jalan Margo Mulyo.</item>
+        <item>Karimunjawa adalah sebuah Kecamatan di Kabupaten Jepara, provinsi Jawa Tengah, Indonesia. Karimunjawa merupakan kepulauan yang terletak di tengah Laut Jawa.</item>
+        <item>Nusa Penida adalah sebuah pulau bagian dari negara Republik Indonesia yang terletak di sebelah tenggara Bali yang dipisahkan oleh Selat Badung. Di dekat pulau ini terdapat juga pulau-pulau kecil lainnya yaitu Nusa Ceningan dan Nusa Lembongan.</item>
+        <item>Pantai Tangsi atau yang lebih dikenal dengan Pantai Pink dari Pulau Lombok terletak di desa Sekaroh, kecamatan Jerowaru, Kabupaten Lombok Timur adalah sebuah destinasi wisata pantai yang patut untuk dikunjungi karena keunikan pasir pantai yang berwarna pink.</item>
+        <item>Danau Toba adalah danau alami berukuran besar di Indonesia yang berada di kaldera Gunung Supervulkan. Danau ini memiliki panjang 100 kilometer, lebar 30 kilometer, dan kedalaman 508 meter. Danau ini terletak di tengah pulau Sumatra bagian utara dengan ketinggian permukaan sekitar 900 meter.</item>
+        <item>Pulau Komodo adalah sebuah pulau yang terletak di Kepulauan Nusa Tenggara, berada di sebelah timur Pulau Sumbawa, yang dipisahkan oleh Selat Sape. Pulau Komodo dikenal sebagai habitat asli hewan komodo. Pulau ini termasuk salah satu kawasan Taman Nasional Komodo yang dikelola oleh Pemerintah Pusat.</item>
+        <item>Taman Budaya Garuda Wisnu Kencana, atau kerap disebut dengan GWK, adalah sebuah taman wisata budaya di bagian selatan pulau Bali.</item>
+    </string-array>
+    <string-array name="placeFullAddress">
+        <item>Jl. Badrawati, Kw. Candi Borobudur, Borobudur, Kec. Borobudur, Kabupaten Magelang, Jawa Tengah</item>
+        <item>Desa Wonokitri, kecamatan Tosari. Kabupaten Pasuruan, Jawa Timur .. sekitar 40 km dari Pasuruan kota (bisa ditempuh perjalanan -+ 1,5 jam)</item>
+        <item>Jl. Pemuda No.160, Sekayu, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132</item>
+        <item>Jl. Malioboro, Sosromenduran, Gedong Tengen, Kota Yogyakarta, Daerah Istimewa Yogyakarta</item>
+        <item>Di pesisir utara Pulau Jawa yang secara administratif masuk wilayah Kabupaten Jepara, Jawa Tengah</item>
+        <item>Di bagian tenggara daratan Pulau Bali.</item>
+        <item>Di Dusun Temeak, Desa Serewe, Kecamatan Jerowaru, Lombok Timur, Provinsi Nusa Tenggara Barat</item>
+        <item>Di Provinsi Sumatera Utara dan dikelilingi oleh 7 Kabupaten. Kabupaten itu meliputi Tobasa, Karo, Samosir, Dairi, Humbang Hasundutan, Simalungun dan Tapanuli Utara.</item>
+        <item>Di Kecamatan Komodo, Kabupaten Manggarai, Provinsi Nusa Tenggara Timur.</item>
+        <item>Jl. Raya Uluwatu, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80364</item>
+    </string-array>
+    <string-array name="placeTicket">
+        <item>Mulai dari Rp48.000</item>
+        <item>Rp15.000</item>
+        <item>Dewasa Rp20.000, Pelajar Rp10.000, Mancanegara Rp30.000.</item>
+        <item>Gratis</item>
+        <item>Rp5.000 - Rp10.000</item>
+        <item>Rp350.000 (termasuk biaya penyebrangan kapal)</item>
+        <item>Lokal Rp10.000, Mancanegara Rp50.000.</item>
+        <item>Rp5.000 - Rp10.000</item>
+        <item>Lokal Rp5.000, Mancanegara Rp350.000</item>
+        <item>Rp95.000 - Rp115.000</item>
+    </string-array>
+</resources>
